@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Subhaan-Yaghouti
 - 👀 I’m interested in .web dvelopment.
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently senior flutter developer
 - 💞️ I’m looking to collaborate on web developers 
 - 📫 How to reach me mr.yaghouti on instagram  
 
